@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656717133 source:c:\users\coffs\desktop\luz\treinamento\exercício 1\quicksort\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

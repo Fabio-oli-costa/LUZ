@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1657730498 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\c++ test\estruturascpp\main.cpp
+	<iostream>
+	"Lista.h"
+
+1657655143 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\c++ test\estruturascpp\estruturas.cpp
+	<iostream>
+	"estruturas.h"
+
+1657655273 c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\c++ test\estruturascpp\estruturas.h
+
+1657730400 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\c++ test\estruturascpp\lista.cpp
+	<iostream>
+	"Lista.h"
+
+1657730400 c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\c++ test\estruturascpp\lista.h
+
