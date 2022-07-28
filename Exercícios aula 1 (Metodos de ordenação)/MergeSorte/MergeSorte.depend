@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1656707199 source:c:\users\coffs\desktop\luz\treinamento\exercício 1\mergesorte\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+

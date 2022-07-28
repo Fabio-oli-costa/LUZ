@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1657070593 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 2\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1657558477 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\fila\main.c
+	"fila.h"
+
+1657558447 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\fila\fila.c
+	"fila.h"
+
+1657558477 c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\fila\fila.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

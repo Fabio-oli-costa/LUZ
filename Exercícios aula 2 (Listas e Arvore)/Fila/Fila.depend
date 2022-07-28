@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1657070593 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 2\fila\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

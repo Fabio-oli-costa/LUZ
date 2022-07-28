@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1657057828 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 2\lista (fernando)\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1657216469 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 2\lista ligada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1657716383 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 2 (listas e arvore)\lista ligada\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+

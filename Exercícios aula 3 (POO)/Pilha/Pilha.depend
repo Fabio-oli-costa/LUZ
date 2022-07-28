@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1657070418 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 2\pilha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
+1657559782 source:c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\pilha\pilha.c
+	"pilha.h"
+
+1657559782 c:\users\coffs\desktop\luz\treinamento\exercícios aula 3 (poo)\pilha\pilha.h
+	<stdio.h>
+	<stdlib.h>
+	<malloc.h>
+
